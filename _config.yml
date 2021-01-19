@@ -10,7 +10,7 @@ url: "https://yukyunglee.github.io/" # the base hostname & protocol for your sit
 
 # SEO PLUGIN
 social:
-  name: Your Name
+  name: Yukyunglee
   links:
     - https://twitter.com/BenBalter
     - https://www.facebook.com/ben.balter
@@ -30,7 +30,7 @@ tagline: >
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
-email: your-email@domain.com # email for form submission
+email: yukyung_lee@korea.ac.kr # email for form submission
 
 twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
 github_username:  janczizikow # replace with your_github_username or comment to remove link from footer
