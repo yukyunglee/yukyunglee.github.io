@@ -9,9 +9,7 @@ Overcoming catastrophic forgetting in neural networks (EWC) 논문을 읽다가 
 
 > 확률변수 ![X](https://wikimedia.org/api/rest_v1/media/math/render/svg/68baa052181f707c662844a465bfeeb135e82bab)가 미지의 매개변수 ![\theta ](https://wikimedia.org/api/rest_v1/media/math/render/svg/6e5ab2664b422d53eb0c7df3b87e1360d75ad9af)로 주어지는 분포를 따른다고 하자. 그렇다면, 관측값 ![{\displaystyle X=x}](https://wikimedia.org/api/rest_v1/media/math/render/svg/0661396d873679039ffe8e908a39f02402d4912d)으로부터 주어지는, ![\theta ](https://wikimedia.org/api/rest_v1/media/math/render/svg/6e5ab2664b422d53eb0c7df3b87e1360d75ad9af)에 대한 **피셔 정보** ![{\displaystyle {\mathcal {I}}(\theta )}](https://wikimedia.org/api/rest_v1/media/math/render/svg/93d0e554bc0fb296dac5ded2a7be914f4398543e)는 다음과 같다.
 
-<img src="Fisher.png" style="zoom:50%;" />
-
-[Fisher](Fisher.png)
+<img src="../assets/img/posts/Fisher.jpg" style="zoom:50%;" />
 
 
 
