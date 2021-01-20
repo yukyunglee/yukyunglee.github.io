@@ -23,6 +23,10 @@
 
   {% endif %}
 
+  {% if page.use_math %}
+    {% include mathjax_support.html %}
+  {% endif %}
+
   <style class="inlineCSS">
 
     {% include critical.css %}

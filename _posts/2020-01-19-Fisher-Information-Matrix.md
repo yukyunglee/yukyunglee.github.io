@@ -4,6 +4,7 @@ title: Fisher Information Matrix
 summary: Fisher Information Matrix 정리 😎
 featured-img: sleek
 categories: Guides
+use_math: true
 ---
 Overcoming catastrophic forgetting in neural networks (EWC) 논문을 읽다가 Fisher information matrix를 활용한 loss function을 접하게 되었다. 하지만 FMI의 의미를 명확하게 설명해주는 자료를 찾지 못한것 같아 정리해보고자 한다. (증명은 많은데 정확히 의미하는 바를 알 수 없었다 😂)
 
