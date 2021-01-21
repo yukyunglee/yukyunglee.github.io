@@ -18,6 +18,7 @@ Overcoming catastrophic forgetting in neural networks (EWC) 논문을 읽다가 
 
 가장 큰 도움을 받은 자료는 9년전 업로드 된 [유튜브링크](https://www.youtube.com/watch?v=m62I5_ow3O8&ab_channel=jonathanpober) 였고, likelihood function으로 부터 차근차근 의미를 살펴본다. likelihood function는 아래의 식으로 정의 할 수 있다. (여기서 $f$는 probability density function을 나타내는데 대부분 가우시안으로 가정한다. )
 
+$df$
 
 $$
 \mathcal{L} = \mathcal{L}(\theta|X)=f(X|\theta) = f(x_1,x_2,...,x_n|\theta)

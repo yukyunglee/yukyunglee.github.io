@@ -6,7 +6,7 @@ MathJax.Hub.Config({
       }
     },
     tex2jax: {
-    inlineMath: [ ['$', '$'] ],
+    inlineMath: [ ['$', '$'],["\\(","\\)"] ],
     displayMath: [ ['$$', '$$'] ],
     processEscapes: true,
   }
@@ -19,5 +19,5 @@ MathJax.Hub.Register.MessageHook("TeX Jax - parse error",function (message) {
 	});
 </script>
 <script type="text/javascript" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
