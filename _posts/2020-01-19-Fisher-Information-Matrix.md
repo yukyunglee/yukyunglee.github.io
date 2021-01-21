@@ -20,11 +20,11 @@ Overcoming catastrophic forgetting in neural networks (EWC) 논문을 읽다가 
 
 
 $$
-\mathcal{L} = \mathcal{L}(\theta|X)=f(X|\theta) = f(x_1,x_2,...,x_n|\theta)
+\mathcal{L} = \mathcal{L}(\theta\mid X)=f(X \mid \theta) = f(x_1,x_2,...,x_n \mid \theta)
 $$
 
 
-영상에서는 $\mathcal{L} = P(data|thory)$ 로 바로 정의내린 후 가우시안을 가정해서 설명을 진행한다. 
+영상에서는 $\mathcal{L} = P(data \mid thory)$ 로 바로 정의내린 후 가우시안을 가정해서 설명을 진행한다. 
 
 요약하자면, Talyor expansion을 통해 likelihood function을 근사한 후 multi parameter 상황에서 Fisher information matrix를 유도하는 방향으로 진행된다. (유도과정은 [링크](https://stats.stackexchange.com/questions/174600/help-with-taylor-expansion-of-log-likelihood-function)에 잘 정리되어있다) Fisher information matrix 는 likelihood function을 두번 미분한 값으로 이해할 수 있기 때문에 'Curvature matrix'로도 불리며 likelihood function이 얼마나 커브 되어있는지 알 수 있다. 
 
