@@ -49,6 +49,7 @@ highlighter: rouge # or pygments or null
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
+
 # theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
 exclude:
   - README.md
