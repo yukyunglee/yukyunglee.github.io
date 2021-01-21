@@ -16,13 +16,23 @@ Overcoming catastrophic forgetting in neural networks (EWC) 논문을 읽다가 
 
 가장 큰 도움을 받은 자료는 9년전 업로드 된 [유튜브링크](https://www.youtube.com/watch?v=m62I5_ow3O8&ab_channel=jonathanpober) 였고, likelihood function으로 부터 차근차근 의미를 살펴본다. likelihood function는 아래의 식으로 정의 할 수 있다. (여기서 $f$는 probability density function을 나타내는데 대부분 가우시안으로 가정한다. )
 
-​                                                                                                    $\mathcal{L} = \mathcal{L}(\theta|X)=f(X|\theta) = f(x_1,x_2,...,x_n|\theta)$
+
+$$
+\mathcal{L} = \mathcal{L}(\theta|X)=f(X|\theta) = f(x_1,x_2,...,x_n|\theta)
+$$
+
 
 영상에서는 $\mathcal{L} = P(data|thory)$ 로 바로 정의내린 후 가우시안을 가정해서 설명을 진행한다. 
 
 요약하자면, Talyor expansion을 통해 likelihood function을 근사한 후 multi parameter 상황에서 Fisher information matrix를 유도하는 방향으로 진행된다. (유도과정은 [링크](https://stats.stackexchange.com/questions/174600/help-with-taylor-expansion-of-log-likelihood-function)에 잘 정리되어있다) Fisher information matrix 는 likelihood function을 두번 미분한 값으로 이해할 수 있기 때문에 'Curvature matrix'로도 불리며 likelihood function이 얼마나 커브 되어있는지 알 수 있다. 
 
 결국 관측값으로 부터 주어지는 $\theta$에 대한  **Fisher information** 는 **'얼마나 커브 되었는가'** 라는 정보라고 결론 낼 수 있다. 그리고 아래와 같이 이해하면 조금 더 쉽다 !
+
+
+$$
+
+$$
+
 
 
 
