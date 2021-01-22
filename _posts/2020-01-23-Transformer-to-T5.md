@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Transformer to T5 - 1 (XLNet, RoBERTa, MASS, BART, MT-DNN, T5)
-summary: Transformer 기반의 언어모델들에대한  정리 및 비교 - 1 Introduction 🔥
+summary: Transformer 기반의 언어모델들에대한 정리 및 비교 - 1 Introduction 🔥
 featured-img: TranstoT5
 categories: [PaperReview,NLP,Transformer]
 use_math: true
@@ -10,7 +10,7 @@ use_math: true
 
  학부 졸업 프로젝트와 논문이 Object detection과 Linear Proramming을 주제로 했기 때문에, 연구실 지원당시에도 NLP를 공부할것이라 미처 생각하지 못했다.  그래서 입학이 확정난 이후부터 스터디를 하면서 기본개념부터 BERT model까지 공부를 진행했다. 
 
- 특히 Transformer model을 이해하는것에 많은 시간을 투자했는데, 그 이후로도 많은 모델이 쏟아져 어떤것을 공부해야하는지 갈피를 잡지 못했다. 시간이 조금 지나고나니 막막함이 사라졌고, 이 기회에 BERT 이후로 등장한 Transformer류 모델들을 묶어서 정리해봐야겠다고 생각했다. 비슷한 궁금증을 가진 분들께 도움이 되길 바란다.
+ 특히 Transformer model을 이해하는것에 많은 시간을 투자했는데, 그 이후로도 많은 모델이 쏟아져 어떤것을 공부해야하는지 갈피를 잡지 못했다. 시간이 조금 지나고나니 논문을 읽는것이 아주 조금 수월해졌고  이 기회에 BERT 이후로 등장한 Transformer류 모델들을 묶어서 정리해봐야겠다고 생각했다. 비슷한 궁금증을 가진 분들께 도움이 되길 바란다.
 
 본 포스팅에서는  **XLNet, RoBERTa, MASS, BART, MT-DNN, T5** 의 6가지 모델에 대해 설명을 진행한다. 
 
