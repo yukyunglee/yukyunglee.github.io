@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Transformer to T5 - 1 (XLNet, RoBERTa, MASS, BART, MT-DNN, T5)
-summary: Transformer 기반의 언어모델들에대한 정리 및 비교 - 1 Introduction 🔥
+summary: Transformer 기반의 언어모델들에대한 정리 및 비교 : Introduction 🔥
 featured-img: TranstoT5
 categories: [PaperReview,NLP,Transformer]
 use_math: true
