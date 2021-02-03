@@ -42,7 +42,7 @@ use_math: true
 
 $$
 Max_\theta log p_\theta(\mathbb{\bar{x}} \mid \mathbb{\hat{x}})\\
-\approx \sum_{t=1}^T m_tlogp_{\theta}(x_t|\mathbb{\hat{x}})\\
+\approx \sum_{t=1}^T m_tlogp_{\theta}(x_t \mid \mathbb{\hat{x}})\\
 =\sum_{t=1}^Tm_tlog\frac{exp(H_\theta(\mathbb{\hat{x}})_t^Te(x_t))}{exp(H_\theta(\sum_{x'}exp(H_\theta(\mathbb{\hat{x}})_t^Te(x'))}
 $$
 
@@ -54,7 +54,7 @@ AutoRegressive는 기존의 LM이 가지는 일반적인 Objective이다. 기존
 
 $$
 Max_\theta log p_\theta(\mathbb{x})  \\
-= \sum_{t=1}^T logp_{\theta}(x_t|\mathbb{x}_{<t})\\
+= \sum_{t=1}^T logp_{\theta}(x_t\mid \mathbb{x}_{<t})\\
 =\sum_{t=1}^Tlog\frac{exp(h_\theta(\mathbb{x}_{1:t-1})^Te(x_t))}{exp(h_\theta(\sum_{x'}exp(h_\theta(\mathbb{x}_{1:t-1})^Te(x'))}
 $$
 
