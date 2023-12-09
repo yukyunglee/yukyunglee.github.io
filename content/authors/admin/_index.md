@@ -108,6 +108,8 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I am a Ph.D. Candidate at Korea University, honored to be advised by Prof. Pilsung Kang. I also collaborate closely with Prof. Misuk Kim at Sejong University. Previously, I gained experience as a Research Intern at Naver. I completed my B.S. in (1) Industrial Management Engineering and (2) International Finance at Hankuk University of Foreign Studies. I worked under Prof. Chungmok Lee and was part of the Opt Lab. 
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+As a researcher, I'm driven by self-motivation, leadership, and teamwork, aiming to positively contribute to every project I'm involved in.
+
+My research focuses on Applied Natural Language Processing (NLP). During Ph.D., I am actively engaged in realizing my research goal of 'Integrating Goal-Oriented AI and Evaluation in Addressing Real-World Challenges'. My current interests include AI Writing, Language Model Evaluation, Conversational AI, and Anomaly Detection.
