@@ -107,7 +107,7 @@ sections:
       columns: '2'
       view: citation
 
-  - block: Awards & Honor
+  - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Awards & Honor'
