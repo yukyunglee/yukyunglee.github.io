@@ -39,10 +39,10 @@ education:
   courses:
     - course: PhD in Industrial Management & Engineering
       institution: Korea University
-      year: 2019 - Present
-    - course: BSc in Industrial Management & Engineering & International Finance
+      year: \n 2019 - Present
+    - course: BSc in Industrial Management & Engineering, and International Finance
       institution: Hankuk University of Foreign Studies
-      year: 2015 - 2019
+      year: \n 2015 - 2019
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
