@@ -39,10 +39,10 @@ education:
   courses:
     - course: PhD in Industrial Management & Engineering
       institution: Korea University
-      year: \n 2019 - Present
+      year: 2019 - Present
     - course: BSc in Industrial Management & Engineering, and International Finance
       institution: Hankuk University of Foreign Studies
-      year: \n 2015 - 2019
+      year: 2015 - 2019
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -108,8 +108,8 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+"I am a highly self-motivated researcher, an effective leader, and a collaborative team player, dedicated to making a positive impact in every team i join."
+
 I am a Ph.D. Candidate at Korea University, honored to be advised by Prof. Pilsung Kang. I also collaborate closely with Prof. Misuk Kim at Sejong University. Previously, I gained experience as a Research Intern at Naver. I completed my B.S. in (1) Industrial Management Engineering and (2) International Finance at Hankuk University of Foreign Studies. I worked under Prof. Chungmok Lee and was part of the Opt Lab. 
 
-As a researcher, I'm driven by self-motivation, leadership, and teamwork, aiming to positively contribute to every project I'm involved in.
-
-My research focuses on Applied Natural Language Processing (NLP). During Ph.D., I am actively engaged in realizing my research goal of 'Integrating Goal-Oriented AI and Evaluation in Addressing Real-World Challenges'. My current interests include AI Writing, Language Model Evaluation, Conversational AI, and Anomaly Detection.
+My research focuses on Applied NLP. During Ph.D., I am actively engaged in realizing my research goal of 'Integrating Goal-Oriented AI and Evaluation in Addressing Real-World Challenges'. My current interests include AI Writing, Language Model Evaluation, Conversational AI, and Anomaly Detection.
