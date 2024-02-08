@@ -96,17 +96,14 @@ sections:
     content:
       title: Publications
       subtutle: 'For an up-to-date list of publications, check out my {{< icon name="google-scholar" pack="ai" >}}[Google Scholar](https://scholar.google.com/citations?user=V6Hm5rEAAAAJ&hl=en).'
-      # text: |-
-      #   {{% callout note %}}
-      #   Quickly discover relevant content by [filtering publications](./publication/).
-      #   {{% /callout %}}
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
       filters:
         folders:
           - publication
         exclude_featured: true
-      order: desc
-      offset: 0
-      count: 0
     design:
       columns: '2'
       view: citation
