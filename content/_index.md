@@ -45,26 +45,32 @@ sections:
   - block: markdown
     content:
       title: 'Experience'
-      subtitle: 'Test'
+      subtitle: ''
       text: |-
         ## Work Experience
-        <!-- <span style="font-style:Raleway; font-weight:700; font-size:large">Work Experience</span> -->
+        <!-- <span style="font-style:Raleway; font-weight:700; font-size:medium">Work Experience</span> -->
+
+        **Hankuk University of Foreign Studies** <span style="float:right">Mar. 2024 - Present</span> <br>
+        Visiting Lecturer (Upcoming) @ Department of Industrial and Management Engineering <br>
+        * Class : Special Topics in Industrial Systems Engineering (T02459101)
+        * Topic: Natural Language Processing 
 
         **Naver** <span style="float:right">Aug. 2023 - Present</span> <br>
         Collaborative Researcher @ Unsupervised Learning Team <br>
         * Topic : Writing with AI, Writing Evaluation
 
         **Naver** <span style="float:right">Apr. 2023 - July 2023</span> <br>
-        Research Intern @ Unsupervised Learning Team (Mentors: [Soonwon Ka](https://www.linkedin.com/in/soonwon-ka-664045b6/){:target="_blank"}, [Bokyung Son](https://scholar.google.com/citations?user=EoFIGVAAAAAJ&hl=ko){:target="_blank"}), [Jaewook Kang](https://scholar.google.com/citations?user=ai2XNnMAAAAJ&hl=ko){:target="_blank"}) <br>
+        Research Intern @ Unsupervised Learning Team (Mentors: [Soonwon Ka](https://www.linkedin.com/in/soonwon-ka-664045b6/), [Bokyung Son](https://scholar.google.com/citations?user=EoFIGVAAAAAJ&hl=en), [Jaewook Kang](https://scholar.google.com/citations?user=ai2XNnMAAAAJ&hl=en)) <br>
         * Topic : Writing with AI
         * Contributed to [CLOVA for Writing](https://www.youtube.com/watch?v=Xl2_a0cxcg8&ab_channel=PLAYNAVER) @ Naver
 
-        **Upstage** <span style="float:right">Jan. 2022 - present </span> <br>
-        Education Metnor @ Language Research Team <br>
-        * Generative AI Mentor (6th)
+        **Upstage** <span style="float:right">Jan. 2022 - Present </span> <br>
+        Education Mentor <br>
+        * Generative AI Mentor (6th, Teaching: [Pilsung Kang](https://scholar.google.com/citations?user=I2pcWZIAAAAJ&hl=en))
         * Natural Language Processing Mentor (4th)
-        * Machine Reading Comprehension Mentor (2nd)
-        * Dialogue State Tracking Mentor (1st)
+        * Machine Reading Comprehension Mentor (2nd, Teaching: [Minjoon Seo](https://seominjoon.github.io/))
+        * Dialogue State Tracking Mentor (1st, Teaching: [Sundong Kim](https://scholar.google.com/citations?user=xKrSnDoAAAAJ&hl=en)) 
+
     design:
       columns: '2'
   # - block: experience
