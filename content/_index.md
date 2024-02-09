@@ -126,12 +126,11 @@ sections:
   - block: collection
     content:
       title: Publications
-      subtutle: |- 
-      For an up-to-date list of publications, check out my {{< icon name="google-scholar" pack="ai" >}}[Google Scholar](https://scholar.google.com/citations?user=V6Hm5rEAAAAJ&hl=en).
+      subtutle: 'For an up-to-date list of publications, check out my {{< icon name="google-scholar" pack="ai" >}}[Google Scholar](https://scholar.google.com/citations?user=V6Hm5rEAAAAJ&hl=en).'
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
       columns: '2'
       view: citation
