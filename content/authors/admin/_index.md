@@ -98,6 +98,12 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/yukyung-lee-149681155/
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=PERSON-ID
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/USERNAME
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
