@@ -98,23 +98,17 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/yukyung-lee-149681155/
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=PERSON-ID
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/USERNAME
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-"I am a highly self-motivated researcher, an effective leader, and a collaborative team player, dedicated to making a positive impact in every team i join."
+I am a highly self-motivated researcher, an effective leader, and a collaborative team player, dedicated to making a positive impact in every team i join.
 
 I am a Ph.D. Candidate at Korea University, honored to be advised by Prof. Pilsung Kang. I also collaborate closely with Prof. Misuk Kim at Sejong University. Previously, I gained experience as a Research Intern at Naver. I completed my B.S. in (1) Industrial Management Engineering and (2) International Finance at Hankuk University of Foreign Studies. I worked under Prof. Chungmok Lee and was part of the Opt Lab. 
 

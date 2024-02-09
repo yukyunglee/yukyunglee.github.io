@@ -126,7 +126,7 @@ sections:
   - block: collection
     content:
       title: Publications
-      subtitle: 'For an up-to-date list of publications, check out my {{< icon name="google-scholar" pack="ai" >}}[Google Scholar](https://scholar.google.com/citations?user=V6Hm5rEAAAAJ&hl=en).'
+      subtitle: 'For an up-to-date list of publications, check out my {{< icon name="graduation-cap" pack="ai" >}}[Google Scholar](https://scholar.google.com/citations?user=V6Hm5rEAAAAJ&hl=en).'
       filters:
         folders:
           - publication
@@ -235,7 +235,7 @@ sections:
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      # flip_alt_rows: false
 
   # - block: collection
   #   id: featured
