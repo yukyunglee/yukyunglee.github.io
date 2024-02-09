@@ -1,10 +1,10 @@
 ---
-title: Redefining Vehicle Delivery with Autonomous Cars via Reinforcement Learning | Sponsored by General Motors
-summary: Research Project (Sept. 2018 - Apr. 2019) |INFORMS O.R. & Analytics Student Team Competition)
+title: Stock Market Prediction and Information Extraction with News | Granted by SK C&C
+summary: Industry Project (Aug. 2019 - Feb. 2020)
 tags:
   - AI
-  - Optimization
-date: '2019-04-01T00:00:00Z'
+  - NLP
+date: '2019-08-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

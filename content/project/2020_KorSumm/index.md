@@ -1,10 +1,10 @@
 ---
-title: Stock Market Prediction and Information Extraction with News 
-summary: 'Industry Project | Granted by SK C&C'
+title: Korean Summarization AI Dataset Construction | Granted by NIA
+summary: Research Project (July 2020 - Dec. 2021)
 tags:
   - AI
   - NLP
-date: '2019-08-01T00:00:00Z'
+date: '2020-07-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

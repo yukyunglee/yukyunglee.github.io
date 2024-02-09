@@ -1,10 +1,9 @@
 ---
-title: Korean Summarization AI Dataset Construction 
-summary: Research Project | Granted by NIA'
+title: Reliability Risk Suspected Process & Facility Search | Granted by Samsung Electronics
+summary: Industry Project (May 2020 - May 2021)
 tags:
   - AI
-  - NLP
-date: '2020-07-01T00:00:00Z'
+date: '2020-05-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

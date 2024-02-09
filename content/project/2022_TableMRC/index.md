@@ -1,10 +1,10 @@
 ---
-title: Redefining Vehicle Delivery with Autonomous Cars via Reinforcement Learning | Sponsored by General Motors
-summary: Research Project (Sept. 2018 - Apr. 2019) |INFORMS O.R. & Analytics Student Team Competition)
+title: Table-based Machine Reading Comprehension | Granted by Hanwha ICT
+summary: Industry Project (June 2022 - Jan. 2023)
 tags:
   - AI
-  - Optimization
-date: '2019-04-01T00:00:00Z'
+  - NLP
+date: '2022-06-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

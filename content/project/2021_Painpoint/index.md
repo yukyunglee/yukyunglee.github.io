@@ -1,9 +1,10 @@
 ---
-title: Reliability Risk Suspected Process & Facility Search
-summary: 'Industry Project | Granted by Samsung Electronics'
+title: Pain Point Detection with Customer Review | Granted by LG Electronics 
+summary: Industry Project (Dec. 2021 - Apr. 2023)
 tags:
   - AI
-date: '2020-05-01T00:00:00Z'
+  - NLP
+date: '2021-04-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

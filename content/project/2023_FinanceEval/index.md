@@ -1,10 +1,10 @@
 ---
-title: Redefining Vehicle Delivery with Autonomous Cars via Reinforcement Learning | Sponsored by General Motors
-summary: Research Project (Sept. 2018 - Apr. 2019) |INFORMS O.R. & Analytics Student Team Competition)
+title: Large Language Model Evaluation Method Discovery in Finance | Granted by Kakaobank
+summary: Industry Project (Oct. 2023 - Present)
 tags:
   - AI
-  - Optimization
-date: '2019-04-01T00:00:00Z'
+  - NLP
+date: '2023-10-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

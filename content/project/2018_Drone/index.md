@@ -1,6 +1,6 @@
 ---
 title: Drone Surveillance System Considering Dynamic POIs
-summary: HUFS IME Capstone Design Project
+summary: HUFS IME Capstone Design Project (Jan. 2018 - June 2018)
 tags:
   - AI
   - Optimization
