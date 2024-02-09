@@ -1,10 +1,9 @@
 ---
-title: Redefining Vehicle Delivery with Autonomous Cars via Reinforcement Learning
-summary: Research Project | Sponsored by General Motors (INFORMS O.R. & Analytics Student Team Competition)
+title: Reliability Risk Suspected Process & Facility Search
+summary: 'Industry Project | Granted by Samsung Electronics'
 tags:
   - AI
-  - Optimization
-date: '2019-04-01T00:00:00Z'
+date: '2020-05-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

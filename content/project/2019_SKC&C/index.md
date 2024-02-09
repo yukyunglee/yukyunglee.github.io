@@ -2,6 +2,7 @@
 title: Stock Market Prediction and Information Extraction with News 
 summary: 'Industry Project | Granted by SK C&C'
 tags:
+  - AI
   - NLP
 date: '2019-08-01T00:00:00Z'
 
