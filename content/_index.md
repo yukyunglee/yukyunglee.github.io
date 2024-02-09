@@ -48,7 +48,7 @@ sections:
       subtitle: ''
       text: |-
         ## Work Experience
-        <!-- <span style="font-style:Raleway; font-weight:700; font-size:medium">Work Experience</span> -->
+        <!-- <span style="font-style:Raleway; font-weight:700; font-size:small">Work Experience</span> -->
 
         **Hankuk University of Foreign Studies** <span style="float:right">Mar. 2024 - Present</span> <br>
         Visiting Lecturer (Upcoming) @ Department of Industrial and Management Engineering
