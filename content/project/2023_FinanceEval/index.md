@@ -1,6 +1,6 @@
 ---
-title: Large Language Model Evaluation Method Discovery in Finance | Granted by Kakaobank
-summary: Industry Project (Oct. 2023 - Present)
+title: Large Language Model Evaluation Method Discovery in Finance 
+summary: Industry Project (Oct. 2023 - Present) | Granted by **Kakaobank**
 tags:
   - AI
   - NLP
