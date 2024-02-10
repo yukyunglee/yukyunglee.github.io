@@ -19,12 +19,6 @@ banner:
 
 > During my Ph.D., I created paper review videos for various research papers. Here is my collection of YouTube videos. Most of the videos are presented in Korean.
 
-
-{{< box info >}}
-  Incididunt labore eiusmod culpa eu nostrud tempor laborum consequat eiusmod excepteur.
-{{< /box >}}
-
-
 Table of Contents
 * [PEER: A Collaborative Language Model (ICLR 2023)](#peer)
 * [Example2](#example2)
@@ -44,3 +38,5 @@ Table of Contents
     paper short description -- 
   </div>
 </div>
+
+
