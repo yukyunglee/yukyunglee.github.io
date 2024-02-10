@@ -129,7 +129,7 @@ sections:
       subtitle: 'For an up-to-date list of publications, check out my {{< icon name="graduation-cap" pack="ai" >}}[Google Scholar](https://scholar.google.com/citations?user=V6Hm5rEAAAAJ&hl=en).'
       filters:
         folders:
-          - publication
+          - publications
         exclude_featured: false
     design:
       columns: '2'
