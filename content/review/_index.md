@@ -19,15 +19,23 @@ banner:
 
 > During my Ph.D., I created paper review videos for various research papers. Here is my collection of YouTube videos. Most of the videos are presented in Korean.
 
+*This page is under construction*
+
 Table of Contents
 * [PEER: A Collaborative Language Model (ICLR 2023)](#peer)
-* [Example2](#example2)
+<!-- * [Example2](#example2)
 * [Third Example](#third-example)
-* [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+* [Fourth Example](#fourth-examplehttpwwwfourthexamplecom) -->
 
 ### PEER: A Collaborative Language Model (ICLR 2023) [](#){name=peer}
 * DSBA Seminar (Mar. 2023)
 
+{{< box info >}}
+**This is a bold line**
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, omnis aliquam...
+{{< /box >}}
+<!-- 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <!-- 여기에 비디오를 삽입하세요. 예를 들어, YouTube 비디오의 iframe을 사용할 수 있습니다. -->
@@ -37,6 +45,6 @@ Table of Contents
     <!-- 여기에 텍스트 설명을 삽입하세요. -->
     paper short description -- 
   </div>
-</div>
+</div> -->
 
 
