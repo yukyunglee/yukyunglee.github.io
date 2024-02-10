@@ -49,12 +49,7 @@ sections:
       text: |-
         ## Work Experience
         <!-- <span style="font-style:Raleway; font-weight:700; font-size:small">Work Experience</span> -->
-
-        **Hankuk University of Foreign Studies** <span style="float:right">Mar. 2024 - Present</span> <br>
-        Visiting Lecturer (Upcoming) @ Department of Industrial and Management Engineering
-        * Class : Special Topics in Industrial Systems Engineering (T02459101)
-        * Topic: Natural Language Processing 
-
+        
         **Naver** <span style="float:right">Aug. 2023 - Present</span> <br>
         Collaborative Researcher @ Unsupervised Learning Team
         * Topic : Writing with AI, Writing Evaluation
@@ -73,56 +68,6 @@ sections:
 
     design:
       columns: '2'
-  # - block: experience
-  #   content:
-  #     title: Experience
-  #     # Date format for experience
-  #     #   Refer to https://docs.hugoblox.com/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Experiences.
-  #     #   Add/remove as many `experience` items below as you like.
-  #     #   Required fields are `title`, `company`, and `date_start`.
-  #     #   Leave `date_end` empty if it's your current employer.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - title: Visiting Lecturer (Upcoming)
-  #         company: Hankuk University of Foreign Studies
-  #         company_url: ''
-  #         company_logo: org-gc
-  #         location: Korea
-  #         date_start: '2024-03-02'
-  #         date_end: ''
-  #         description: |2-
-  #             Lecturer for Applied NLP Course
-  #       - title: Visiting Researcher
-  #         company: Naver
-  #         company_url: ''
-  #         company_logo: org-gc
-  #         location: Korea
-  #         date_start: '2023-08-01'
-  #         date_end: ''
-  #         description: |2-
-  #             (Research Topic: LLM based Free-form Text Generation & Evaluation
-  #       - title: Research Intern
-  #         company: Naver
-  #         company_url: ''
-  #         company_logo: org-gc
-  #         location: Korea
-  #         date_start: '2023-04-11'
-  #         date_end: '2023-07-07'
-  #         description: |2-
-  #             Contributed to CLOVA for Writing
-  #             (Topic: AI based Writing)
-  #       - title: Teaching Assistanct
-  #         company: Upstage
-  #         company_url: ''
-  #         company_logo: org-x
-  #         location: Korea
-  #         date_start: '2020-01-01'
-  #         date_end: ''
-  #         description: Mentoring for NLP, MRC, DST, GenAI
-  #   design:
-  #     columns: '2'
   - block: collection
     content:
       title: Publications
