@@ -30,9 +30,6 @@ Table of Contents
 ### PEER: A Collaborative Language Model (ICLR 2023) [](#){name=peer}
 * DSBA Seminar (Mar. 2023)
 
-{{< ico moon >}}
-
-{{< ico icon="star" theme="solid" class="red medium" >}}
 
 <!-- 
 <div style="display: flex; align-items: center;">
