@@ -72,7 +72,7 @@ sections:
     id: publications
     content:
       title: Publications
-      subtitle: 'For an up-to-date list of publications, <br> check out my {{< icon name="graduation-cap" pack="fab" >}}[Google Scholar](https://scholar.google.com/citations?user=V6Hm5rEAAAAJ&hl=en).'
+      subtitle: 'For an up-to-date list of publications, <br> check out my {{< icon name="google-scholar" pack="ai" >}}[Google Scholar](https://scholar.google.com/citations?user=V6Hm5rEAAAAJ&hl=en).'
       filters:
         folders:
           - publications
