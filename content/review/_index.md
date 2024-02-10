@@ -31,7 +31,6 @@ Table of Contents
 * DSBA Seminar (Mar. 2023)
 
 
-<!-- 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <!-- 여기에 비디오를 삽입하세요. 예를 들어, YouTube 비디오의 iframe을 사용할 수 있습니다. -->
@@ -41,6 +40,6 @@ Table of Contents
     <!-- 여기에 텍스트 설명을 삽입하세요. -->
     paper short description -- 
   </div>
-</div> -->
+</div>
 
 
