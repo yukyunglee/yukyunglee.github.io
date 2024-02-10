@@ -9,4 +9,3 @@ imports:
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
   - path: github.com/rpapallas/hugo_gdpr_embeds
-  - path: hugo-shortcode-roneo-collection
