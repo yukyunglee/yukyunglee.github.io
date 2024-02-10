@@ -1,6 +1,6 @@
 ---
-title: Korean Summarization AI Dataset Construction | Granted by NIA
-summary: Research Project (July 2020 - Dec. 2021)
+title: Korean Summarization AI Dataset Construction
+summary: Research Project (July 2020 - Dec. 2021) | Granted by **NIA**
 tags:
   - AI
   - NLP

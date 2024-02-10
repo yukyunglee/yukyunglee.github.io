@@ -1,6 +1,6 @@
----
-title: Reliability Risk Suspected Process & Facility Search | Granted by Samsung Electronics
-summary: Industry Project (May 2020 - May 2021)
+--- 
+title: Reliability Risk Suspected Process & Facility Search
+summary: Industry Project (May 2020 - May 2021) | Granted by **Samsung Electronics**
 tags:
   - AI
 date: '2020-05-01T00:00:00Z'

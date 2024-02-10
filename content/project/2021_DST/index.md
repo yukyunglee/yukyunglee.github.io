@@ -1,6 +1,6 @@
 ---
-title: Dialogue State Tracking | Granted by ETRI
-summary: Research Project (Apr. 2021 - Dec. 2022)
+title: Dialogue State Tracking
+summary: Research Project (Apr. 2021 - Dec. 2022) | Granted by **ETRI**
 tags:
   - AI
   - NLP

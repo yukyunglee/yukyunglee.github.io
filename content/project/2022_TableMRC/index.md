@@ -1,6 +1,6 @@
 ---
-title: Table-based Machine Reading Comprehension | Granted by Hanwha ICT
-summary: Industry Project (June 2022 - Jan. 2023)
+title: Table-based Machine Reading Comprehension
+summary: Industry Project (June 2022 - Jan. 2023) | Granted by **Hanwha ICT**
 tags:
   - AI
   - NLP

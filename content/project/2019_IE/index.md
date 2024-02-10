@@ -1,6 +1,6 @@
 ---
-title: Stock Market Prediction and Information Extraction with News | Granted by SK C&C
-summary: Industry Project (Aug. 2019 - Feb. 2020)
+title: Stock Market Prediction and Information Extraction with News
+summary: Industry Project (Aug. 2019 - Feb. 2020) | Granted by **SK C&C**
 tags:
   - AI
   - NLP

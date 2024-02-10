@@ -1,6 +1,6 @@
 ---
-title: Pain Point Detection with Customer Review | Granted by LG Electronics 
-summary: Industry Project (Dec. 2021 - Apr. 2023)
+title: Pain Point Detection with Customer Review
+summary: Industry Project (Dec. 2021 - Apr. 2023) | Granted by **LG Electronics** 
 tags:
   - AI
   - NLP
