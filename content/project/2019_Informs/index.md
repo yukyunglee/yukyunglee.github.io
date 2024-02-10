@@ -1,6 +1,6 @@
 ---
 title: Redefining Vehicle Delivery with Autonomous Cars via Reinforcement Learning 
-summary: Research Project (Sept. 2018 - Apr. 2019) | Sponsored by General Motors (INFORMS O.R. & Analytics Student Team Competition)
+summary: Research Project (Sept. 2018 - Apr. 2019) | Sponsored by **General Motors** (INFORMS O.R. & Analytics Student Team Competition)
 tags:
   - AI
   - Optimization
