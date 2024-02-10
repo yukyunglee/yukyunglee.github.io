@@ -49,7 +49,7 @@ sections:
       text: |-
         ## Work Experience
         <!-- <span style="font-style:Raleway; font-weight:700; font-size:small">Work Experience</span> -->
-        
+
         **Naver** <span style="float:right">Aug. 2023 - Present</span> <br>
         Collaborative Researcher @ Unsupervised Learning Team
         * Topic : Writing with AI, Writing Evaluation
@@ -69,9 +69,10 @@ sections:
     design:
       columns: '2'
   - block: collection
+    id: publications
     content:
       title: Publications
-      subtitle: 'For an up-to-date list of publications, check out my {{< icon name="graduation-cap" pack="ai" >}}[Google Scholar](https://scholar.google.com/citations?user=V6Hm5rEAAAAJ&hl=en).'
+      subtitle: 'For an up-to-date list of publications, <br> check out my {{< icon name="graduation-cap" pack="fab" >}}[Google Scholar](https://scholar.google.com/citations?user=V6Hm5rEAAAAJ&hl=en).'
       filters:
         folders:
           - publications
