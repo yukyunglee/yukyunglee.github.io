@@ -117,11 +117,8 @@ security:
 
 # Youtube embed
 gdpr_embeds:
-  myPrivacyPolicyText: 'Put your privacy text here, you can use markdown to link to your [privacy policy](/privacy) page.'
-  youtube:
-    warningTitle: 'This is the title of the warning box'
-    warningMainText :  """This is the warning text of the warning box.
-    Here you need to explain the implications of watching a youtube video.
-    You can use markdown to link to the [privacy policy](https://www.....) 
-    of youtube."""
-    buttonText: 'This is the text of the button the user will click to agree to show the videos'
+    myPrivacyPolicyText: "Put your privacy text here, you can use markdown to link to your [privacy policy](/privacy) page."
+    youtube:
+      warningTitle: "This is the title of the warning box"
+      warningMainText: "This is the warning text of the warning box.\nHere you need to explain the implications of watching a youtube video.\nYou can use markdown to link to the [privacy policy](https://www.....) of youtube."
+      buttonText: "This is the text of the button the user will click to agree to show the videos"
