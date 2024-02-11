@@ -16,9 +16,9 @@ main:
   - name: Teaching
     url: 'teaching/'
     weight: 40
-  - name: Paper Review
-    url: 'review/'
-    weight: 50
+  # - name: Paper Review
+  #   url: 'review/'
+  #   weight: 50
   # - name: Talks
   #   url: '#talks'
   #   weight: 40
