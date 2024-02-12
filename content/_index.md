@@ -59,7 +59,7 @@ sections:
         * Topic : Writing with AI
         * Contributed to [CLOVA for Writing](https://www.youtube.com/watch?v=Xl2_a0cxcg8&ab_channel=PLAYNAVER) @ Naver
 
-        **Upstage** <span style="float:right">Jan. 2022 - Present </span> <br>
+        **Upstage** <span style="float:right">Jan. 2021 - Present </span> <br>
         Education Mentor
         * Generative AI Mentor (6th, Teaching: [Pilsung Kang](https://scholar.google.com/citations?user=I2pcWZIAAAAJ&hl=en))
         * Natural Language Processing Mentor (4th)
