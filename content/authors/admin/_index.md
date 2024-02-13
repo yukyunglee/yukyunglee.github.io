@@ -37,11 +37,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Industrial Management & Engineering
+    - course: MS/PhD in Industrial Management & Engineering
       institution: Korea University
       year: 2019 - Present
     - course: BSc in Industrial Management & Engineering, and International Finance
-      institution: Hankuk University of Foreign Studies
+      institution: Hankuk University of Foreign Studies (Summa Cum Laude)
       year: 2015 - 2019
 
 # Skills
