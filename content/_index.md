@@ -45,11 +45,11 @@ sections:
 
   - block: markdown
     content:
-      title: News
+      title: 'News'
       subtitle: ''
       text: |-
       ## Recent News 🥳
-      <!-- <span style="font-style:Raleway; font-weight:700; font-size:small">Work Experience</span> -->
+
       * [Feb. 2024] Our Entity Adaptive DST paper (DSTEA) has been accepted for publication in the Knowledge-Based Systems journal (Q1, IF=8.8)
       * [Sept. 2023] Our Log Anomaly Detection paper (LAnoBERT) has been accepted for publication in the Applied Soft Computing journal (Q1, IF=8.7)
       * [June 2023] Our Entity Adaptive DST paper (DSTEA) has been accepted at KnowledgeNLP @ KDD 2023
@@ -58,13 +58,13 @@ sections:
 
     design:
       columns: '1'
+
   - block: markdown
     content:
       title: 'Experience'
       subtitle: ''
       text: |-
         ## Work Experience
-        <!-- <span style="font-style:Raleway; font-weight:700; font-size:small">Work Experience</span> -->
 
         **Naver** <span style="float:right">Aug. 2023 - Present</span> <br>
         Collaborative Researcher @ Unsupervised Learning Team
@@ -84,6 +84,7 @@ sections:
 
     design:
       columns: '2'
+
   - block: collection
     id: publications
     content:
