@@ -42,10 +42,11 @@ sections:
       title: ''
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+
   - block: markdown
     content:
       title: News
-      subtititle: ''
+      subtitle: ''
       text: |-
       ## Recent News 🥳
       <!-- <span style="font-style:Raleway; font-weight:700; font-size:small">Work Experience</span> -->
@@ -54,6 +55,7 @@ sections:
       * [June 2023] Our Entity Adaptive DST paper (DSTEA) has been accepted at KnowledgeNLP @ KDD 2023
       * [May 2023] Our Pain Point Detection paper (Painsight) has been accepted at WASSA @ ACL 2023 (oral presentation ☺️)
       * [April 2023] Excited to join Unsupervised Learning team @ NAVER as Research intern 
+
     design:
       columns: '1'
   - block: markdown
