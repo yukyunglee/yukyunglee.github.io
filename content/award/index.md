@@ -17,6 +17,8 @@ banner:
 
 ## 🏆 **Awards**
 
+**Outstanding Paper Award (2024)| Brain Korea (BK21) FOUR, Korea University**
+
 **Factory Hack Korea (2020) | KETI** 
 * Award: SKT Metatron Prize (2nd Place)
 * Topic : Machine ware prediction using manufacturing dataset
