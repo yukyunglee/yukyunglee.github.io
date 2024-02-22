@@ -50,11 +50,17 @@ sections:
       text: |-
         ## Recent News 🥳
 
-        * **[Feb. 2024]** Our Entity Adaptive DST paper (DSTEA) has been accepted for publication in the Knowledge-Based Systems journal (Q1, IF=8.8)
-        * **[Sept. 2023]** Our Log Anomaly Detection paper (LAnoBERT) has been accepted for publication in the Applied Soft Computing journal (Q1, IF=8.7)
-        * **[June 2023]** Our Entity Adaptive DST paper (DSTEA) has been accepted at KnowledgeNLP @ KDD 2023
-        * **[May 2023]** Our Pain Point Detection paper (Painsight) has been accepted at WASSA @ ACL 2023 (oral presentation ☺️)
-        * **[April 2023]** Excited to join Unsupervised Learning team @ NAVER as Research intern 
+        * **[Feb 2024]** I won the Outstanding Paper Award from Korea University (BK21)
+        * **[Feb 2024]** Our Entity Adaptive DST paper (DSTEA) has been accepted for publication in the Knowledge-Based Systems journal (Q1, IF=8.8)
+        * **[Sep 2023]** Our Log Anomaly Detection paper (LAnoBERT) has been accepted for publication in the Applied Soft Computing journal (Q1, IF=8.7)
+        * **[Jun 2023]** Our Entity Adaptive DST paper (DSTEA) has been accepted at KnowledgeNLP @ KDD 2023
+        * **[May 2023]** Our Pain Point Detection paper (Painsight) has been accepted at WASSA @ ACL 2023
+        * **[Apr 2023]** Excited to join Unsupervised Learning team @ NAVER as Research intern 
+        * **[Dec 2022]** Our DST (with turnback utterance) paper has been accepted at SereTOD @ EMNLP 2022
+        * **[Feb 2022]** Our DST Evaluation paper has been accepted at ACL 2022
+        * **[Nov 2020]** Our Multilingual OpenIE paper has been accepted at EMNLP 2020 (findings)
+
+
 
     design:
       columns: '1'
