@@ -61,7 +61,6 @@ sections:
         * **[Nov 2020]** Our Multilingual OpenIE paper has been accepted at EMNLP 2020 (findings)
 
 
-
     design:
       columns: '1'
 

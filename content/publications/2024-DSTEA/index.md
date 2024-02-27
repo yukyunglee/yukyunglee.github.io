@@ -21,7 +21,7 @@ doi: ""
 publishDate: "2024-02-17T00:00:00Z"
 
 # Publication type.
-publication_types: ["paper-conference"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Knowledge Based System (IF = 8.8) and KDD 2023 Second Workshop on Knowledge Augmented Methods for NLP"
