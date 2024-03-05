@@ -18,7 +18,7 @@ banner:
 ## 👩🏻‍🏫 **Lecturer**
 
 **Hankuk University of Foreign Studies** <span style="float:right">Mar. 2024 - Present</span> <br>
-  Visiting Lecturer (Upcoming) @ Department of Industrial and Management Engineering
+  Visiting Lecturer @ Department of Industrial and Management Engineering
   * Class : Special Topics in Industrial Systems Engineering (T02459101)
   * Topic: Natural Language Processing 
 
