@@ -52,6 +52,7 @@ sections:
 
         * **[Feb 2024]** I won the Outstanding Paper Award from Korea University (BK21)
         * **[Feb 2024]** Our Entity Adaptive DST paper (DSTEA) has been accepted for publication in the Knowledge-Based Systems journal (Q1, IF=8.8)
+        * **[Nov 2023]** We released new log anomaly detection paper (preprint)!; Check out [RAPID](https://arxiv.org/abs/2311.05160) 
         * **[Sep 2023]** Our Log Anomaly Detection paper (LAnoBERT) has been accepted for publication in the Applied Soft Computing journal (Q1, IF=8.7)
         * **[Jun 2023]** Our Entity Adaptive DST paper (DSTEA) has been accepted at KnowledgeNLP @ KDD 2023
         * **[May 2023]** Our Pain Point Detection paper (Painsight) has been accepted at WASSA @ ACL 2023
