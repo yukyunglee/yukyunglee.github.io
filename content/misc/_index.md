@@ -1,5 +1,5 @@
 ---
-title: Student interested working with me
+title: 💌
 cms_exclude: true
 
 # View.
@@ -23,10 +23,12 @@ banner:
 
 ## 🎨 **Mentoring**
 
-**💌Message for Students Interested in Mentoring** 
+💌 **Message for Students Interested in Mentoring** 
 Throughout my life, I have been fortunate to have many mentors who generously offered me their valuable advice and support. Since 2021, inspired by their example, I have been dedicating my time to supporting various students, offering mentorship to undergraduate and master's students. If you're interested in working or researching with me, please don't hesitate to reach out via email at yukyung_lee@korea.ac.kr ! If we're a good fit, and I'm excited to explore how we can work together!
 
 *(Please note: Currently, I'm leading three projects—one industry project and two research projects—and supporting two additional projects. As such, while I'm eager to mentor and collaborate with passionate students, I may not be able to accept every request due to my existing commitments 🥲. I appreciate your understanding and encourage you to reach out if you believe our interests and goals align.)*
+
+---
 
 **One-on-one Mentoring** 
   * Joonghoon Kim (Master’s Student at Korea University) <span style="float:right">2022 - Present</span> <br>
