@@ -49,4 +49,4 @@ banner:
 
 ## 👩🏻‍🎨 **Project Assistant**
 * Fast Campus Advanced Data Analytics Semi-professional Course <span style="float:right">2022</span> <br>
-* Fast Campus Advanced Data Analytics Semi-professional Course <span style="float:right">2022</span> <br>
+* Fast Campus Advanced Data Analytics Semi-professional Course <span style="float:right">2021</span> <br>
