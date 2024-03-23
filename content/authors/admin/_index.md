@@ -112,4 +112,4 @@ I am a Ph.D. Candidate at Korea University, honored to be advised by Prof. [Pils
 
 My research focuses on Applied NLP. During Ph.D., I am actively engaged in realizing my research goal of 'Integrating Goal-Oriented AI and Evaluation in Addressing Real-World Challenges'. My current interests include AI Writing, Language Model Evaluation, Conversational AI, and Anomaly Detection.
 
-For students interested in working/research/chat with me, please read [this page](https://yukyunglee.github.io/teaching/)
+For students interested in working/researching/chatting with me, please read [this page](https://yukyunglee.github.io/misc/)
