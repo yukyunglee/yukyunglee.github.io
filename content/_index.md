@@ -50,6 +50,7 @@ sections:
       text: |-
         ## Recent News 🥳
 
+        * **[Mar 2024]** Our Checklist based LLM Evaluation paper (CheckEval) has been accepted at HEAL @ CHI 2024 🌴🌺
         * **[Feb 2024]** I won the Outstanding Paper Award from Korea University (BK21)
         * **[Feb 2024]** Our Entity Adaptive DST paper (DSTEA) has been accepted for publication in the Knowledge-Based Systems journal (Q1, IF=8.8)
         * **[Nov 2023]** We released new log anomaly detection paper (preprint)!; Check out [RAPID](https://arxiv.org/abs/2311.05160) 
