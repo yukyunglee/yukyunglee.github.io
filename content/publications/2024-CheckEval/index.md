@@ -29,7 +29,7 @@ tags: []
 featured: false
 
 # links:
-url_pdf: 'https://arxiv.org/abs/2311.05160'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
