@@ -50,16 +50,17 @@ sections:
       text: |-
         ## Recent News 🥳
 
-        * **[Mar 2024]** Our Checklist based LLM Evaluation paper (CheckEval) has been accepted at HEAL @ CHI 2024 🌴🌺
+        * **[Apr 2024]** We released new Writing with AI paper (preprint)!; Check out [WritingPath](https://arxiv.org/abs/2404.13919)
+        * **[Mar 2024]** Our Checklist based LLM Evaluation paper ([CheckEval](https://arxiv.org/abs/2403.18771)) has been accepted at HEAL @ CHI 2024 🌴🌺
         * **[Feb 2024]** I won the Outstanding Paper Award from Korea University (BK21)
-        * **[Feb 2024]** Our Entity Adaptive DST paper (DSTEA) has been accepted for publication in the Knowledge-Based Systems journal (Q1, IF=8.8)
+        * **[Feb 2024]** Our Entity Adaptive DST paper ([DSTEA](https://arxiv.org/abs/2207.03858)) has been accepted for publication in the Knowledge-Based Systems journal (Q1, IF=8.8)
         * **[Nov 2023]** We released new log anomaly detection paper (preprint)!; Check out [RAPID](https://arxiv.org/abs/2311.05160) 
         * **[Sep 2023]** Our Log Anomaly Detection paper (LAnoBERT) has been accepted for publication in the Applied Soft Computing journal (Q1, IF=8.7)
         * **[Jun 2023]** Our Entity Adaptive DST paper (DSTEA) has been accepted at KnowledgeNLP @ KDD 2023
-        * **[May 2023]** Our Pain Point Detection paper (Painsight) has been accepted at WASSA @ ACL 2023
+        * **[May 2023]** Our Pain Point Detection paper ([Painsight](https://arxiv.org/abs/2306.02043)) has been accepted at WASSA @ ACL 2023
         * **[Apr 2023]** Excited to join Unsupervised Learning team @ NAVER as Research intern 
-        * **[Dec 2022]** Our DST (with turnback utterance) paper has been accepted at SereTOD @ EMNLP 2022
-        * **[Feb 2022]** Our DST Evaluation paper has been accepted at ACL 2022
+        * **[Dec 2022]** Our DST ([with turnback utterance](https://arxiv.org/abs/2108.12637)) paper has been accepted at SereTOD @ EMNLP 2022
+        * **[Feb 2022]** Our [DST Evaluation paper](https://arxiv.org/abs/2203.03123) has been accepted at ACL 2022
         * **[Nov 2020]** Our Multilingual OpenIE paper has been accepted at EMNLP 2020 (findings)
 
 

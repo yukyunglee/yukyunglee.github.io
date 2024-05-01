@@ -29,7 +29,7 @@ tags: []
 featured: false
 
 # links:
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2404.13919'
 url_code: ''
 url_dataset: ''
 url_poster: ''
