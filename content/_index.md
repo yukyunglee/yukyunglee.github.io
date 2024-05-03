@@ -74,16 +74,16 @@ sections:
       text: |-
         ## Work Experience
 
-        **Naver** <span style="float:right">Aug. 2023 - Present</span> <br>
+        **Naver** <span style="float:right">Aug 2023 - Apr 2024</span> <br>
         Collaborative Researcher @ Unsupervised Learning Team
         * Topic : Writing with AI, Writing Evaluation
 
-        **Naver** <span style="float:right">Apr. 2023 - July 2023</span> <br>
+        **Naver** <span style="float:right">Apr 2023 - July 2023</span> <br>
         Research Intern @ Unsupervised Learning Team (Mentors: [Soonwon Ka](https://www.linkedin.com/in/soonwon-ka-664045b6/), [Bokyung Son](https://scholar.google.com/citations?user=EoFIGVAAAAAJ&hl=en), [Jaewook Kang](https://scholar.google.com/citations?user=ai2XNnMAAAAJ&hl=en))
         * Topic : Writing with AI
         * Contributed to [CLOVA for Writing](https://www.youtube.com/watch?v=Xl2_a0cxcg8&ab_channel=PLAYNAVER) @ Naver
 
-        **Upstage** <span style="float:right">Jan. 2021 - Present </span> <br>
+        **Upstage** <span style="float:right">Jan 2021 - Present </span> <br>
         Education Mentor
         * Generative AI Mentor (6th, Teaching: [Pilsung Kang](https://scholar.google.com/citations?user=I2pcWZIAAAAJ&hl=en))
         * Natural Language Processing Mentor (4th)
