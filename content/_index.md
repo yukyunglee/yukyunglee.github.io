@@ -50,6 +50,8 @@ sections:
       text: |-
         ## Recent News 🥳
 
+        * **[May 2024]** A big life update is coming soon! ✨
+        * **[May 2024]** Our log anomaly detection paper ([RAPID](https://arxiv.org/abs/2311.05160)) has beeb accepted for publication in the Engineering Applications of Artificial Intelligence journal! (Q1, IF=8.0)
         * **[Apr 2024]** We released new Writing with AI paper (preprint)!; Check out [WritingPath](https://arxiv.org/abs/2404.13919)
         * **[Mar 2024]** Our Checklist based LLM Evaluation paper ([CheckEval](https://arxiv.org/abs/2403.18771)) has been accepted at HEAL @ CHI 2024 🌴🌺
         * **[Feb 2024]** I won the Outstanding Paper Award from Korea University (BK21)
