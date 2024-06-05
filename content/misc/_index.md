@@ -15,8 +15,9 @@ banner:
   image: ''
 ---
 
-## 🕑 **Office Hour**
-  * **If you are a HUFS student** and interested in discussing your career or research opportunities (or anything else you'd like to chat about), please feel free to schedule a time through the calendly link provided below to visit me during office hours. While students taking my courses are given priority, I warmly welcome conversations with all students 😊. I'm on campus every Monday from 11:00 AM to 7:00 PM, and my office is in the Engineering Building, room 537. If my calendar appears full, kindly reach out to me via email at yukyung_lee@korea.ac.kr, and we can arrange another time to meet.
+## 🕑 **Office Hour** 
+  * **The office hours notice is valid until June 17.**
+  * **If you are a HUFS student** and interested in discussing your career or research opportunities (or anything else you'd like to chat about), please feel free to schedule a time through the calendly link provided below to visit me during office hours. While students taking my courses are given priority, I warmly welcome conversations with all students 😊. I'm on campus every Monday from 11:00 AM to 7:00 PM, and my office is in the Engineering Building, room 537. If my calendar appears full, kindly reach out to me via email at yukyung_lee[at]korea[dot]ac[dot]kr, and we can arrange another time to meet.
   * calendly link: https://calendly.com/yukyung_lee/30min  
 
 ---
@@ -39,6 +40,5 @@ Throughout my life, I have been fortunate to have many mentors who generously of
 
 **Group Mentoring** 
   * Mentor for young NLP researchers/engineers (over 80+ students 💙)<span style="float:right">2021 -Present</span> <br>
-
 ---
 
