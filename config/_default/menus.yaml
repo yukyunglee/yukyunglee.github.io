@@ -22,6 +22,9 @@ main:
   - name: Misc
     url: 'misc/'
     weight: 60
+  - name: Writings
+    url: 'writings/'
+    weight: 70
   # - name: Paper Review
   #   url: 'review/'
   #   weight: 50
