@@ -50,20 +50,28 @@ sections:
       text: |-
         ## Recent News 🥳
 
-        * **[May 2024]** A big life update is coming soon! ✨
-        * **[May 2024]** Our log anomaly detection paper ([RAPID](https://arxiv.org/abs/2311.05160)) has been accepted for publication in the Engineering Applications of Artificial Intelligence journal! (Q1, IF=8.0)
-        * **[Apr 2024]** We released new Writing with AI paper (preprint)!; Check out [WritingPath](https://arxiv.org/abs/2404.13919)
-        * **[Mar 2024]** Our Checklist based LLM Evaluation paper ([CheckEval](https://arxiv.org/abs/2403.18771)) has been accepted at HEAL @ CHI 2024
-        * **[Feb 2024]** I won the Outstanding Paper Award from Korea University (BK21)
-        * **[Feb 2024]** Our Entity Adaptive DST paper ([DSTEA](https://arxiv.org/abs/2207.03858)) has been accepted for publication in the Knowledge-Based Systems journal (Q1, IF=8.8)
-        * **[Nov 2023]** We released new log anomaly detection paper (preprint)!; Check out [RAPID](https://arxiv.org/abs/2311.05160) 
-        * **[Sep 2023]** Our Log Anomaly Detection paper (LAnoBERT) has been accepted for publication in the Applied Soft Computing journal (Q1, IF=8.7)
-        * **[Jun 2023]** Our Entity Adaptive DST paper (DSTEA) has been accepted at KnowledgeNLP @ KDD 2023
-        * **[May 2023]** Our Pain Point Detection paper ([Painsight](https://arxiv.org/abs/2306.02043)) has been accepted at WASSA @ ACL 2023
-        * **[Apr 2023]** Excited to join Unsupervised Learning team @ NAVER as Research intern 
-        * **[Dec 2022]** Our DST ([with turnback utterance](https://arxiv.org/abs/2108.12637)) paper has been accepted at SereTOD @ EMNLP 2022
-        * **[Feb 2022]** Our [DST Evaluation paper](https://arxiv.org/abs/2203.03123) has been accepted at ACL 2022
-        * **[Nov 2020]** Our Multilingual OpenIE paper has been accepted at EMNLP 2020 (findings)
+        * **[June 2024]**
+          * I'm excited to share that I have successfully defended my Ph.D! 👩🏻‍🎓🌟
+          * We released efficient memory reduction method paper (preprint)!; Check out [ContAccum](https://arxiv.org/abs/2406.12356v1)
+        * **[May 2024]** 
+          * A big life update is coming soon! ✨
+          * Our log anomaly detection paper ([RAPID](https://arxiv.org/abs/2311.05160)) has been accepted for publication in the Engineering Applications of Artificial Intelligence journal! (Q1, IF=8.0)
+        * **[Apr 2024]** 
+          * We released new LLM based Writing paper (preprint)!; Check out [WritingPath](https://arxiv.org/abs/2404.13919)
+        * **[Mar 2024]** 
+          * Our Checklist based LLM Evaluation paper ([CheckEval](https://arxiv.org/abs/2403.18771)) has been accepted at HEAL @ CHI 2024
+        * **[Feb 2024]** 
+          * I won the Outstanding Paper Award from Korea University (BK21)
+          * Our Entity Adaptive DST paper ([DSTEA](https://arxiv.org/abs/2207.03858)) has been accepted for publication in the Knowledge-Based Systems journal (Q1, IF=8.8)
+        * **~2023**
+          * **[Nov 2023]** We released new log anomaly detection paper (preprint)!; Check out [RAPID](https://arxiv.org/abs/2311.05160) 
+          * **[Sep 2023]** Our Log Anomaly Detection paper (LAnoBERT) has been accepted for publication in the Applied Soft Computing journal (Q1, IF=8.7)
+          * **[Jun 2023]** Our Entity Adaptive DST paper (DSTEA) has been accepted at KnowledgeNLP @ KDD 2023
+          * **[May 2023]** Our Pain Point Detection paper ([Painsight](https://arxiv.org/abs/2306.02043)) has been accepted at WASSA @ ACL 2023
+          * **[Apr 2023]** Excited to join Unsupervised Learning team @ NAVER as Research intern 
+          * **[Dec 2022]** Our DST ([with turnback utterance](https://arxiv.org/abs/2108.12637)) paper has been accepted at SereTOD @ EMNLP 2022
+          * **[Feb 2022]** Our [DST Evaluation paper](https://arxiv.org/abs/2203.03123) has been accepted at ACL 2022
+          * **[Nov 2020]** Our Multilingual OpenIE paper has been accepted at EMNLP 2020 (findings)
 
 
     design:
@@ -76,14 +84,11 @@ sections:
       text: |-
         ## Work Experience
 
-        **Naver** <span style="float:right">Aug 2023 - Apr 2024</span> <br>
-        Collaborative Researcher @ Unsupervised Learning Team
-        * Topic : Writing with AI, Writing Evaluation
-
         **Naver** <span style="float:right">Apr 2023 - July 2023</span> <br>
         Research Intern @ Unsupervised Learning Team (Mentors: [Soonwon Ka](https://www.linkedin.com/in/soonwon-ka-664045b6/), [Bokyung Son](https://scholar.google.com/citations?user=EoFIGVAAAAAJ&hl=en), [Jaewook Kang](https://scholar.google.com/citations?user=ai2XNnMAAAAJ&hl=en))
         * Topic : Writing with AI
         * Contributed to [CLOVA for Writing](https://www.youtube.com/watch?v=Xl2_a0cxcg8&ab_channel=PLAYNAVER) @ Naver
+        * Additional Research Collaboration (Aug 2023 - Apr 2024)
 
         **Upstage** <span style="float:right">Jan 2021 - Present </span> <br>
         Education Mentor
