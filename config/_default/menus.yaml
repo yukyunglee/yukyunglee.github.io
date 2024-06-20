@@ -19,12 +19,12 @@ main:
   - name: Teaching
     url: 'teaching/'
     weight: 50
-  - name: Misc
-    url: 'misc/'
-    weight: 60
+  # - name: Misc
+  #   url: 'misc/'
+  #   weight: 60
   - name: Writings
     url: 'writings/'
-    weight: 70
+    weight: 60
   # - name: Paper Review
   #   url: 'review/'
   #   weight: 50
