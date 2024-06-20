@@ -39,7 +39,7 @@ education:
   courses:
     - course: MS/PhD in Industrial Management & Engineering
       institution: Korea University
-      year: 09/2019 - 08/2024 (Expected 👩🏻‍🎓🌟)
+      year: 09/2019 - 08/2024
     - course: BSc in Industrial Management & Engineering, and International Finance
       institution: Hankuk University of Foreign Studies (Summa Cum Laude)
       year: 03/2015 - 09/2019
