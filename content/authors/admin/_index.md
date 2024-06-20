@@ -111,5 +111,4 @@ highlight_name: true
 I am a Ph.D. Candidate at Korea University, honored to be advised by Prof. [Pilsung Kang](http://dsba.korea.ac.kr/professor/). I also collaborate closely with Prof. [Misuk Kim](https://sites.google.com/dm.snu.ac.kr/idsl/members/professor?authuser=0) at Hanyang University. Previously, I gained experience as a Research Intern at Naver. I completed my B.S. in (1) Industrial Management Engineering and (2) International Finance at Hankuk University of Foreign Studies. I worked under Prof. [Chungmok Lee](https://chungmok.notion.site/chungmok/Chungmok-Lee-Ph-D-fed955fe006b471ab5417e5a59925afb) and was part of the Opt Lab. 
 
 My research focuses on Applied NLP. During Ph.D., I am actively engaged in realizing my research goal of **'Towards Goal-oriented Language Intelligence with Robust Evaluation'**. My current interests include Writing with AI, Language Model Evaluation, Conversational AI, and Anomaly Detection.
-
-For students interested in working/researching/chatting with me, please read [this page](https://yukyunglee.github.io/misc/)
+<!-- For students interested in working/researching/chatting with me, please read [this page](https://yukyunglee.github.io/misc/) -->

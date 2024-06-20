@@ -17,12 +17,12 @@ banner:
 
 ## 👩🏻‍🏫 **Lecturer**
 
-**Hankuk University of Foreign Studies** <span style="float:right">Mar. 2024 - Present</span> <br>
+**Hankuk University of Foreign Studies** <span style="float:right">Mar 2024 - June 2024</span> <br>
   Visiting Lecturer @ Department of Industrial and Management Engineering
   * Class : Special Topics in Industrial Systems Engineering (T02459101)
   * Topic: Natural Language Processing 
 
-**Korea University** <span style="float:right">Sept. 2023 - Dec. 2023</span> <br>
+**Korea University** <span style="float:right">Sep 2023 - Dec 2023</span> <br>
   Lecturer (Team teaching) @ Department of Industrial and Management Engineering
   * Class : Business Analytics (IME654)
   * Topic: Machine Learning
