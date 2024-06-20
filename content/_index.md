@@ -53,7 +53,7 @@ sections:
           - We released efficient memory reduction method paper (preprint)!; Check out [ContAccum](https://arxiv.org/abs/2406.12356v1)
         * **[May 2024]**
           - A big life update is coming soon! ✨
-            - Our retrieval based log anomaly detection paper ([RAPID](https://arxiv.org/abs/2311.05160)) has been accepted for publication in the EAAI journal! (Q1, IF=8.0)
+          - Our retrieval based log anomaly detection paper ([RAPID](https://arxiv.org/abs/2311.05160)) has been accepted for publication in the EAAI journal! (Q1, IF=8.0)
         * **[Apr 2024]** We released new LLM based Writing paper (preprint)!; Check out [WritingPath](https://arxiv.org/abs/2404.13919)
         * **[Mar 2024]** Our Checklist based LLM Evaluation paper ([CheckEval](https://arxiv.org/abs/2403.18771)) has been accepted at HEAL @ CHI 2024
         * **[Feb 2024]**  
