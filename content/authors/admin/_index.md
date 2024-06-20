@@ -103,7 +103,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: static/uploads/resume.pdf
+    link: https://drive.google.com/file/d/1yBAC2ewYz0eh3L8MyNb-sHXZJ1_MKRqA/view?usp=sharing
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
