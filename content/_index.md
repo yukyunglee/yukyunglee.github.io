@@ -48,15 +48,18 @@ sections:
       title: 'News'
       subtitle: ''
       text: |-
-        * **[June 2024]** - I'm excited to share that I have successfully defended my Ph.D! 👩🏻‍🎓🌟
-                          - We released efficient memory reduction method paper (preprint)!; Check out [ContAccum](https://arxiv.org/abs/2406.12356v1)
-        * **[May 2024]**  - A big life update is coming soon! ✨
-                          - Our retrieval based log anomaly detection paper ([RAPID](https://arxiv.org/abs/2311.05160)) has been accepted for publication in the EAAI journal! (Q1, IF=8.0)
-        * **[Apr 2024]**  - We released new LLM based Writing paper (preprint)!; Check out [WritingPath](https://arxiv.org/abs/2404.13919)
-        * **[Mar 2024]**  - Our Checklist based LLM Evaluation paper ([CheckEval](https://arxiv.org/abs/2403.18771)) has been accepted at HEAL @ CHI 2024
-        * **[Feb 2024]**  - I won the Outstanding Paper Award from Korea University (BK21)
-                          - Our Entity Adaptive DST paper ([DSTEA](https://arxiv.org/abs/2207.03858)) has been accepted for publication in the Knowledge-Based Systems journal (Q1, IF=8.8)
-        * ** ~ 2023**
+        * **[June 2024]** 
+          - I'm excited to share that I have successfully defended my Ph.D! 👩🏻‍🎓🌟
+          - We released efficient memory reduction method paper (preprint)!; Check out [ContAccum](https://arxiv.org/abs/2406.12356v1)
+        * **[May 2024]**
+          - A big life update is coming soon! ✨
+            - Our retrieval based log anomaly detection paper ([RAPID](https://arxiv.org/abs/2311.05160)) has been accepted for publication in the EAAI journal! (Q1, IF=8.0)
+        * **[Apr 2024]** We released new LLM based Writing paper (preprint)!; Check out [WritingPath](https://arxiv.org/abs/2404.13919)
+        * **[Mar 2024]** Our Checklist based LLM Evaluation paper ([CheckEval](https://arxiv.org/abs/2403.18771)) has been accepted at HEAL @ CHI 2024
+        * **[Feb 2024]**  
+          - I won the Outstanding Paper Award from Korea University (BK21)
+          - Our Entity Adaptive DST paper ([DSTEA](https://arxiv.org/abs/2207.03858)) has been accepted for publication in the Knowledge-Based Systems journal (Q1, IF=8.8)
+        * **~ 2023**
           * **[Sep 2023]** Our Log Anomaly Detection paper (LAnoBERT) has been accepted for publication in the Applied Soft Computing journal (Q1, IF=8.7)
           * **[Jun 2023]** Our Entity Adaptive DST paper (DSTEA) has been accepted at KnowledgeNLP @ KDD 2023
           * **[May 2023]** Our Pain Point Detection paper ([Painsight](https://arxiv.org/abs/2306.02043)) has been accepted at WASSA @ ACL 2023
