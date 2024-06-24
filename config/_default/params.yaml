@@ -77,8 +77,8 @@ features:
     gravatar: false
     shape: square
     image:
-      Width: 180
-      Height: 180
+      Width: 100
+      Height: 100
   comment:
     provider: ''
     disqus:
