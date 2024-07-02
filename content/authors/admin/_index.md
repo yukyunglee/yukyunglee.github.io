@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Ph.D.
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: http://dsba.korea.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Writing with AI, Language Model Evaluation, Conversational AI, Anomaly Detection
+bio: I am an incoming postdoctoral researcher at Boston University. My research interests include Writing with AI, Language Model Evaluation, Conversational AI, Anomaly Detection
 
 # Interests to show in About widget
 interests:
@@ -103,7 +103,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: https://drive.google.com/file/d/1yBAC2ewYz0eh3L8MyNb-sHXZJ1_MKRqA/view?usp=sharing
+    link: https://drive.google.com/file/d/1NA8z0WP2zW_ur10ayALmXc049EIIPU8l/view?usp=sharing
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
