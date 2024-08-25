@@ -34,5 +34,3 @@ authors:
 ## Test
 
 upload test posting
-
-![Main](snoopy-grad.jpeg)
