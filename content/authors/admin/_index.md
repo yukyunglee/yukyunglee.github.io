@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D.
+role: Postdoctoral Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Korea University (DSBA Lab.)
-    url: http://dsba.korea.ac.kr/
+  - name: Boston University (Tin Lab.)
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an incoming postdoctoral researcher at Boston University. My research interests include Writing with AI, Language Model Evaluation, Conversational AI, Anomaly Detection
+bio: I am an incoming postdoctoral associate at Boston University. My research interests include Writing with AI, Language Model Evaluation, Conversational AI, Anomaly Detection
 
 # Interests to show in About widget
 interests:
@@ -108,7 +108,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am an incoming postdoctoral researcher at Boston University, working with Prof. [Najoung Kim](https://najoung.kim/) and Prof. [Sebastian Schuster](https://sebschu.com/index). I received my Ph.D. from Korea University, honored to be advised by Prof. [Pilsung Kang](http://dsba.korea.ac.kr/professor/). I also collaborate closely with Prof. [Misuk Kim](https://sites.google.com/dm.snu.ac.kr/idsl/members/professor?authuser=0) at Hanyang University. Previously, I gained experience as a Research Intern at Naver. I completed my B.S. in (1) Industrial Management Engineering and (2) International Finance at Hankuk University of Foreign Studies. I worked under Prof. [Chungmok Lee](https://chungmok.notion.site/chungmok/Chungmok-Lee-Ph-D-fed955fe006b471ab5417e5a59925afb) and was part of the Opt Lab. 
+I am postdoctoral associate at Boston University @ TinLab, working with Prof. [Najoung Kim](https://najoung.kim/) and Prof. [Sebastian Schuster](https://sebschu.com/index). I received my Ph.D. from Korea University, honored to be advised by Prof. [Pilsung Kang](http://dsba.korea.ac.kr/professor/). I also collaborate closely with Prof. [Misuk Kim](https://sites.google.com/dm.snu.ac.kr/idsl/members/professor?authuser=0) at Hanyang University. Previously, I gained experience as a Research Intern at Naver. I completed my B.S. in (1) Industrial Management Engineering and (2) International Finance at Hankuk University of Foreign Studies. I worked under Prof. [Chungmok Lee](https://chungmok.notion.site/chungmok/Chungmok-Lee-Ph-D-fed955fe006b471ab5417e5a59925afb) and was part of the Opt Lab. 
 
 My research focuses on Applied NLP. During Ph.D., I am actively engaged in realizing my research goal of **'Towards Goal-oriented Language Intelligence with Robust Evaluation'**. My current interests include Writing with AI, Language Model Evaluation, Conversational AI, and Anomaly Detection.
 <!-- For students interested in working/researching/chatting with me, please read [this page](https://yukyunglee.github.io/misc/) -->
