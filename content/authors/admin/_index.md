@@ -25,7 +25,7 @@ organizations:
     url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an incoming postdoctoral associate at Boston University. My research interests include Writing with AI, Language Model Evaluation, Conversational AI, Anomaly Detection
+bio: I am postdoctoral associate at Boston University. My research interests include Writing with AI, Language Model Evaluation, Conversational AI, Anomaly Detection
 
 # Interests to show in About widget
 interests:

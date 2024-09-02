@@ -50,7 +50,7 @@ sections:
       text: |-
         * **[Sep 2024]** 
           - I have started my Postdoc at Boston University @ tinlab
-        * **[June 2024]**
+        * **[Aug 2024]**
           - Gave an invited talk at SKT about LLM based evaluation for Open-ended generation
         * **[June 2024]** 
           - I'm excited to share that I have successfully defended my Ph.D! 👩🏻‍🎓🌟
