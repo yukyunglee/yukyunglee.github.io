@@ -48,15 +48,12 @@ sections:
       title: 'Recent News'
       subtitle: ''
       text: |-
-        * **[Sep 2024]** 
-          - I have started my Postdoc at Boston University @ tinlab
-        * **[Aug 2024]**
-          - Gave an invited talk at SKT about LLM based evaluation for Open-ended generation
+        * **[Sep 2024]** I have started my Postdoc at Boston University @ Tin Lab
+        * **[Aug 2024]** Gave an invited talk at SKT about LLM based evaluation for Open-ended generation
         * **[June 2024]** 
           - I'm excited to share that I have successfully defended my Ph.D! 👩🏻‍🎓🌟
           - We released efficient memory reduction method paper (preprint)!; Check out [ContAccum](https://arxiv.org/abs/2406.12356v1)
-        * **[May 2024]**
-          - Our retrieval based log anomaly detection paper ([RAPID](https://arxiv.org/abs/2311.05160)) has been accepted for publication in the EAAI journal! (Q1, IF=8.0)
+        * **[May 2024]** Our retrieval based log anomaly detection paper ([RAPID](https://arxiv.org/abs/2311.05160)) has been accepted for publication in the EAAI journal! (Q1, IF=8.0)
         * **[Apr 2024]** We released new LLM based Writing paper (preprint)!; Check out [WritingPath](https://arxiv.org/abs/2404.13919)
         * **[Mar 2024]** Our Checklist based LLM Evaluation paper ([CheckEval](https://arxiv.org/abs/2403.18771)) has been accepted at HEAL @ CHI 2024
         * **[Feb 2024]**  
@@ -82,8 +79,13 @@ sections:
       text: |-
         ## Work Experience
 
-        **Boston University** <span style="float:right">Start Sep 2024</span> <br>
-        Postdoctoral Researcher @ Boston University
+        **Boston University** <span style="float:right">Sep 2024 - Present</span> <br>
+        Postdoctoral Associate @ Tin Lab
+
+        **Hankuk University of Foreign Studies** <span style="float:right">Mar 2024 - June 2024</span> <br>
+        Visiting Lecturer @ Department of Industrial and Management Engineering
+        * Class : Special Topics in Industrial Systems Engineering (T02459101)
+        * Topic: Natural Language Processing 
 
         **Naver** <span style="float:right">Apr 2023 - July 2023</span> <br>
         Research Intern @ Unsupervised Learning Team (Mentors: [Soonwon Ka](https://www.linkedin.com/in/soonwon-ka-664045b6/), [Bokyung Son](https://scholar.google.com/citations?user=EoFIGVAAAAAJ&hl=en), [Jaewook Kang](https://scholar.google.com/citations?user=ai2XNnMAAAAJ&hl=en))
