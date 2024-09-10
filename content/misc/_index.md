@@ -22,9 +22,9 @@ banner:
 
 <!-- --- -->
 
-## 🕑 **Office Hour** 
+<!-- ## 🕑 **Office Hour** 
   * If you're interested in discussing your career (PhD, postdoc, or anything else) or would like to chat about your research, feel free to schedule a time to meet with me during my office hours (Fridays, 1:00 PM – 5:00 PM, US Eastern Time) through the Calendly link below. I warmly welcome conversations with all students 😊. If my calendar appears full, please don't hesitate to reach out via email at yukyung_lee[at]korea[dot]ac[dot]kr (or ylee5[at]bu[dot]edu), and we can arrange another time to meet.
-  * calendly link: https://calendly.com/yukyung_lee/30-min-meeting
+  * calendly link: https://calendly.com/yukyung_lee/30-min-meeting -->
 
 ---
 
