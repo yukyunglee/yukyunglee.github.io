@@ -91,7 +91,7 @@ education:
 social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=V6Hm5rEAAAAJ&hl=ko&authuser=1
+    link: https://scholar.google.com/citations?user=V6Hm5rEAAAAJ&hl=en&authuser=1
   - icon: github
     icon_pack: fab
     link: https://github.com/yukyunglee
@@ -103,7 +103,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: https://drive.google.com/file/d/1NA8z0WP2zW_ur10ayALmXc049EIIPU8l/view?usp=sharing
+    link: https://drive.google.com/file/d/1TT3sgikCM98wFqvFgcbh4iF7JG6hdYYt/view?usp=sharing
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
