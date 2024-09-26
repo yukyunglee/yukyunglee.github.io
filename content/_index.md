@@ -48,11 +48,11 @@ sections:
       title: 'Recent News'
       subtitle: ''
       text: |-
-        * **[Sep 2024]** I have started my Postdoc at Boston University @ Tin Lab
+        * **[Sep 2024]** 
+          - Our [ContAccum](https://arxiv.org/abs/2406.12356v1) paper has been accepted to **NeurIPS 2024**! 
+          - I have started my Postdoc at Boston University @ Tin Lab
         * **[Aug 2024]** Gave an invited talk at SKT about LLM based evaluation for Open-ended generation
-        * **[June 2024]** 
-          - I'm excited to share that I have successfully defended my Ph.D! 👩🏻‍🎓🌟
-          - We released efficient memory reduction method paper (preprint)!; Check out [ContAccum](https://arxiv.org/abs/2406.12356v1)
+        * **[June 2024]** I'm excited to share that I have successfully defended my Ph.D! 👩🏻‍🎓🌟
         * **[May 2024]** Our retrieval based log anomaly detection paper ([RAPID](https://arxiv.org/abs/2311.05160)) has been accepted for publication in the EAAI journal! (Q1, IF=8.0)
         * **[Apr 2024]** We released new LLM based Writing paper (preprint)!; Check out [WritingPath](https://arxiv.org/abs/2404.13919)
         * **[Mar 2024]** Our Checklist based LLM Evaluation paper ([CheckEval](https://arxiv.org/abs/2403.18771)) has been accepted at HEAL @ CHI 2024
