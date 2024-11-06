@@ -50,7 +50,7 @@ sections:
       text: |-
         * **[Sep 2024]** 
           - Our [ContAccum](https://arxiv.org/abs/2406.12356v1) paper has been accepted to **NeurIPS 2024**! 
-          - I have started my Postdoc at Boston University @ Tin Lab
+          - I have started my Postdoc at Boston University @ tinlab 🤖💭🦔
         * **[Aug 2024]** Gave an invited talk at SKT about LLM based evaluation for Open-ended generation
         * **[June 2024]** I'm excited to share that I have successfully defended my Ph.D! 👩🏻‍🎓🌟
         * **[May 2024]** Our retrieval based log anomaly detection paper ([RAPID](https://arxiv.org/abs/2311.05160)) has been accepted for publication in the EAAI journal! (Q1, IF=8.0)
@@ -80,7 +80,7 @@ sections:
         ## Work Experience
 
         **Boston University** <span style="float:right">Sep 2024 - Present</span> <br>
-        Postdoctoral Associate @ Tin Lab
+        Postdoctoral Associate @ tinlab
 
         **Hankuk University of Foreign Studies** <span style="float:right">Mar 2024 - June 2024</span> <br>
         Visiting Lecturer @ Department of Industrial and Management Engineering

@@ -21,7 +21,7 @@ role: Postdoctoral Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Boston University (Tin Lab.)
+  - name: Boston University (tinlab.)
     url: 
 
 # Short bio (displayed in user profile at end of posts)
@@ -37,7 +37,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MS/PhD in Industrial Management & Engineering
+    - course: PhD in Industrial Management & Engineering
       institution: Korea University
       year: 09/2019 - 08/2024
     - course: BSc in Industrial Management & Engineering, and International Finance
@@ -91,7 +91,7 @@ education:
 social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=V6Hm5rEAAAAJ&hl=en&authuser=1
+    link: https://drive.google.com/file/d/1XWkPxAV4SuAyeP0QH3jqrgsdbqBGqJWP/view?usp=sharing
   - icon: github
     icon_pack: fab
     link: https://github.com/yukyunglee
