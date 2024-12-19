@@ -1,5 +1,17 @@
 .avatar {
-    width: 30px !important;
-    height: 30px !important;
+    width: 150px !important;
+    height: 150px !important;
+    object-fit: cover;
+}
+
+.avatar-circle {
+    width: 150px !important;
+    height: 150px !important;
+    object-fit: cover;
+}
+
+.avatar-square {
+    width: 150px !important;
+    height: 150px !important;
     object-fit: cover;
 }
