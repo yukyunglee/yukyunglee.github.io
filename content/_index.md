@@ -48,6 +48,7 @@ sections:
       title: 'Recent News'
       subtitle: ''
       text: |-
+        * **[Nov 2024]** Gave an invited talk at [Korea University DAIS Lab](https://dais.korea.ac.kr/) about Goal-Oriented Language Model
         * **[Sep 2024]** 
           - Our [ContAccum](https://arxiv.org/abs/2406.12356v1) paper has been accepted to **NeurIPS 2024**! 
           - I have started my Postdoc at Boston University @ tinlab 🤖💭🦔
