@@ -1,17 +1,7 @@
-.avatar {
+#profile img.avatar.avatar-square {
     width: 150px !important;
     height: 150px !important;
-    object-fit: cover;
-}
-
-.avatar-circle {
-    width: 150px !important;
-    height: 150px !important;
-    object-fit: cover;
-}
-
-.avatar-square {
-    width: 150px !important;
-    height: 150px !important;
-    object-fit: cover;
+    object-fit: cover !important;
+    max-width: 150px !important;
+    max-height: 150px !important;
 }
