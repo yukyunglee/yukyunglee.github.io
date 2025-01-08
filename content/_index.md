@@ -36,12 +36,30 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
-  - block: about.biography
-    id: about
+  # - block: about.biography
+  #   id: about
+  #   content:
+  #     title: ''
+  #     # Choose a user profile to display (a folder name within `content/authors/`)
+  #     username: admin
+  - block: resume-biography-3
     content:
-      title: ''
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+      button:
+        text: Download CV
+        url: uploads/resume.pdf
+    design:
+      background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: background.png
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
 
   - block: markdown
     content:
