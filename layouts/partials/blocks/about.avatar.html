@@ -1,0 +1,60 @@
+{{/* Custom About Widget - Avatar Variation */}}
+
+{{/* Initialise */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $author := .author }}
+
+{{ $person_page_path := (printf "/authors/%s" $author) }}
+{{ $person_page := site.GetPage $person_page_path }}
+{{ if not $person_page }}
+  {{ errorf "Could not find an author page at `%s`. Please check the value of `author` in your About widget and create an associated author page if one does not already exist. See https://wowchemy.com/docs/page-builder/#about " $person_page_path }}
+{{end}}
+{{ $person := $person_page.Params }}
+{{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
+{{ $avatar_shape := site.Params.features.avatar.shape | default "circle" }}
+
+<div id="profile">
+  {{ if $avatar }}
+    <div class="avatar-wrapper">
+      {{ $avatar_image := $avatar.Fill "500x500 Center" }}
+      <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}} bg-white dark:bg-gray-800 p-1"
+           width="400"
+           height="400"
+           src="{{ $avatar_image.RelPermalink }}"
+           alt="{{$person_page.Title}}"
+           loading="lazy">
+    </div>
+  {{ end }}
+
+  <div class="portrait-title">
+    <h2>
+      {{- if $person.name_pronunciation -}}
+        <ruby>
+          <rb>{{ $person_page.Title }}</rb>
+          <rt>{{ $person.name_pronunciation }}</rt>
+        </ruby>
+      {{- else -}}
+        {{- $person_page.Title -}}
+      {{- end -}}
+    </h2>
+
+    {{ with $person.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
+
+    {{ range $person.organizations }}
+    <h3>
+      {{ if .url }}<a href="{{ .url }}" target="_blank" rel="noopener">{{ end }}
+      <span>{{ .name }}</span>
+      {{ if .url }}</a>{{ end }}
+    </h3>
+    {{ end }}
+  </div>
+
+  {{ with $block.content.text }}
+  <div class="article-style pt-2 d-flex justify-content-center">
+    <div class="bio-text">
+      {{ . | emojify | markdownify | emojify }}
+    </div>
+  </div>
+  {{ end }}
+</div>

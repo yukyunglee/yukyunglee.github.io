@@ -1,0 +1,17 @@
+{{/* Custom About Widget */}}
+
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $author := "admin" }}
+
+{{ $person_page_path := (printf "/authors/%s" $author) }}
+{{ $person_page := site.GetPage $person_page_path }}
+{{ if not $person_page }}
+  {{ errorf "Could not find an author page at `%s`. Please check the value of `author` in your About widget and create an associated author page if one does not already exist. See https://wowchemy.com/docs/page-builder/#about " $person_page_path }}
+{{end}}
+
+<div class="about-section">
+  <div class="about-content resume-biography flex flex-col md:flex-row justify-center gap-12">
+    {{ partial "blocks/about.avatar" (dict "wcPage" $page "wcBlock" $block "author" $author) }}
+  </div>
+</div>
