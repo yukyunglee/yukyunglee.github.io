@@ -1,0 +1,11 @@
+/* light mode */
+:root {
+  --color-primary: #4a4a4a;  /* 진한 회색으로 변경 */
+  --color-background: #fafafa;
+}
+
+/* dark mode */
+[data-theme="dark"] {
+  --color-primary: #d4d4d4;  /* 밝은 회색으로 변경 */
+  --color-background: #333333;
+}

@@ -1,0 +1,35 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Source+Sans+Pro:wght@200;300;400;700&display=swap');
+
+/* Define CSS variables for fonts */
+:root {
+    --heading-font: 'Source Sans Pro', sans-serif;
+    --body-font: 'Source Sans Pro', sans-serif;
+    --nav-font: 'Source Sans Pro', sans-serif;
+    --mono-font: 'Roboto Mono', monospace;
+}
+
+/* Apply fonts */
+body {
+    font-family: var(--body-font);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--heading-font);
+}
+
+code {
+    font-family: var(--mono-font);
+}
+
+nav {
+    font-family: var(--nav-font);
+}
+
+.page-background {
+  background-color: #fafafa !important; /* 아주 연한 회색 */
+}
+
+.dark .page-background {
+  background-color: #333333 !important; /* 다크모드일 때의 어두운 회색 */
+}
