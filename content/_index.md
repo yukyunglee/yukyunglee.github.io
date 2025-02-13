@@ -19,7 +19,7 @@ sections:
         text: Download CV
         url: https://drive.google.com/file/d/1XWkPxAV4SuAyeP0QH3jqrgsdbqBGqJWP/view?usp=sharing
     design:
-      css_class: dark
+      css_class: light
       background:
         color: black
         image:
