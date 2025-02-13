@@ -17,31 +17,31 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: https://drive.google.com/file/d/1XWkPxAV4SuAyeP0QH3jqrgsdbqBGqJWP/view?usp=sharing
     design:
       css_class: dark
       background:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: background.png
           filters:
             brightness: 1.0
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+  # - block: markdown
+  #   content:
+  #     title: '📚 My Research'
+  #     subtitle: ''
+  #     text: |-
+  #       Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+  #       I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
         
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
+  #       Please reach out to collaborate 😃
+  #   design:
+  #     columns: '1'
   - block: collection
     id: papers
     content:
