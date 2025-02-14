@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-      url: 'mailto:ylee5@bu.edu'
+    url: 'mailto:ylee5@bu.edu'
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=V6Hm5rEAAAAJ&hl=en
   - icon: brands/github
