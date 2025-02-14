@@ -1,6 +1,6 @@
 ---
 title: 📣 I have started my Postdoc at Boston University @ tinlab 🤖💭🦔
-summary: 
+summary: I started my Postdoc at Boston University @ tinlab 🤖💭🦔
 date: 2024-09-01
 
 # Featured image

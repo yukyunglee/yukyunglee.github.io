@@ -30,14 +30,14 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
+  - icon: at-symbol
+      url: 'mailto:ylee5@bu.edu'
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=V6Hm5rEAAAAJ&hl=en&authuser=1
+    url: https://scholar.google.com/citations?user=V6Hm5rEAAAAJ&hl=en
   - icon: brands/github
     url: https://github.com/yukyunglee
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/yukyung-lee-149681155/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=V6Hm5rEAAAAJ&hl=en&authuser=1
 
 interests:
   - Language Model Evaluation
@@ -56,17 +56,13 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: BSc Industrial Management & Engineering
-    institution: Hankuk University of Foreign Studies
+  - area: BSc Industrial Management & Engineering and BA International Finance
+    institution: HUFS
     date_start: 2015-03-01
     date_end: 2019-08-16
     summary: |
       Summacum laude 🎓
       Supervised by [Prof Chungmok Lee](https://chungmok.notion.site/)
-  - area: BA International Finance
-    institution: Hankuk University of Foreign Studies
-    date_start: 2015-03-01
-    date_end: 2019-08-16
 work:
   - position: Postdoctoral Associate
     company_name: Boston University
